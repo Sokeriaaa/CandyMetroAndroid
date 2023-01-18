@@ -4,6 +4,11 @@ import androidx.annotation.ColorInt
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 
+/**
+ * Metro station table
+ * @author Sokeriaaa
+ * @date 2023/1/17
+ */
 @Entity(
     tableName = StationEntity.tableName,
     primaryKeys = ["line_id", "station_id"]

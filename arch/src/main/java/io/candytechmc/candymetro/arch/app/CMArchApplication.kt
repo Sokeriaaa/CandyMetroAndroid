@@ -10,6 +10,11 @@ import org.koin.core.context.startKoin
 import org.koin.core.module.Module
 import org.koin.dsl.module
 
+/**
+ * Arch Application
+ * @author Sokeriaaa
+ * @date 2023/1/17
+ */
 open class CMArchApplication : Application() {
 
     override fun attachBaseContext(base: Context?) {

@@ -8,6 +8,11 @@ import com.google.accompanist.navigation.animation.AnimatedNavHost
 import com.google.accompanist.navigation.animation.composable
 import io.candytechmc.candymetro.ui.RootScene
 
+/**
+ * App root navigation
+ * @author Sokeriaaa
+ * @date 2023/1/17
+ */
 @OptIn(ExperimentalAnimationApi::class)
 @Composable
 fun RootNav(

@@ -12,6 +12,12 @@ import com.google.accompanist.navigation.animation.rememberAnimatedNavController
 import io.candytechmc.candymetro.nav.RootNav
 import io.candytechmc.candymetro.ui.theme.CandyMetroTheme
 
+/**
+ * Main Activity
+ * This app only have one activity for Compose container.
+ * @author Sokeriaaa
+ * @date 2023/1/17
+ */
 class MainActivity : ComponentActivity() {
     @OptIn(ExperimentalAnimationApi::class)
     override fun onCreate(savedInstanceState: Bundle?) {

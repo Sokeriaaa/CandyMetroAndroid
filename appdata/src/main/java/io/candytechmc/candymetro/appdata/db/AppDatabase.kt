@@ -9,6 +9,11 @@ import io.candytechmc.candymetro.appdata.db.dao.StationDao
 import io.candytechmc.candymetro.appdata.db.table.LineEntity
 import io.candytechmc.candymetro.appdata.db.table.StationEntity
 
+/**
+ * Room Database
+ * @author Sokeriaaa
+ * @date 2023/1/17
+ */
 @Database(
     entities = [
         LineEntity::class,
