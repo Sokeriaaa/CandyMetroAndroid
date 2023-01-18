@@ -32,6 +32,9 @@ class LineEntity(
     @ColumnInfo(name = "color")
     var color: Int = 0
 
+    @ColumnInfo(name = "is_open")
+    var isOpen: Boolean = false
+
     companion object {
         const val tableName = "cm_line"
     }
