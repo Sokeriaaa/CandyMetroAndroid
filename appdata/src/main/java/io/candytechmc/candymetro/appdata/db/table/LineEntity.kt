@@ -22,6 +22,12 @@ class LineEntity(
     @ColumnInfo(name = "en_name")
     var enName: String = ""
 
+    @ColumnInfo(name = "jp_name")
+    var jpName: String = ""
+
+    @ColumnInfo(name = "kr_name")
+    var krName: String = ""
+
     @ColorInt
     @ColumnInfo(name = "color")
     var color: Int = 0

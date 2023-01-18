@@ -28,6 +28,12 @@ class StationEntity(
     @ColumnInfo(name = "en_name")
     var enName: String = ""
 
+    @ColumnInfo(name = "jp_name")
+    var jpName: String = ""
+
+    @ColumnInfo(name = "kr_name")
+    var krName: String = ""
+
     @ColumnInfo(name = "x")
     var x: Int = 0
 
