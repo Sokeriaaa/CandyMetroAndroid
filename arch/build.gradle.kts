@@ -65,9 +65,6 @@ dependencies {
     // Material Design
     api(AndroidX.compose.material)
     api(AndroidX.compose.material3)
-    // Material design icons
-    api(AndroidX.compose.material.icons.core)
-    api(AndroidX.compose.material.icons.extended)
     // Integration with observables
     api(AndroidX.compose.runtime.liveData)
     api(AndroidX.compose.runtime.rxJava3)
