@@ -9,4 +9,6 @@ sealed class Scene(val route: String) {
 
     object Root : Scene("cm_root")
 
+    object LineList : Scene("cm_line_list")
+
 }
