@@ -1,7 +1,6 @@
 package io.candytechmc.candymetro.ui.lines
 
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.viewModelScope
@@ -11,6 +10,7 @@ import io.candytechmc.candymetro.appdata.db.table.LineEntity
 import io.candytechmc.candymetro.appdata.db.table.StationEntity
 import io.candytechmc.candymetro.arch.base.BaseViewModel
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import org.koin.core.component.inject
 
@@ -24,16 +24,17 @@ class LinesViewModel : BaseViewModel() {
     private val lineDao: LineDao by inject()
     private val stationDao: StationDao by inject()
 
-    val lineList = mutableStateListOf<LineEntity>()
+    var lineList by mutableStateOf(emptyList<LineEntity>())
 
     var selectedLineID by mutableStateOf(0)
 
-    val lineStationList = mutableStateListOf<StationEntity>()
+    var lineStationList by mutableStateOf(emptyList<StationEntity>())
+
+    private var queryStationJob: Job? = null
 
     fun initLines() {
         viewModelScope.launch(Dispatchers.IO) {
-            lineList.clear()
-            lineList.addAll(lineDao.queryAll())
+            lineList = lineDao.queryAll()
         }
     }
 
@@ -43,9 +44,10 @@ class LinesViewModel : BaseViewModel() {
     }
 
     private fun refreshStations() {
-        viewModelScope.launch(Dispatchers.IO) {
-            lineStationList.clear()
-            lineStationList.addAll(stationDao.queryForLine(lineID = selectedLineID))
+        queryStationJob?.cancel()
+        queryStationJob = viewModelScope.launch(Dispatchers.IO) {
+            lineStationList = stationDao.queryForLine(lineID = selectedLineID)
+            queryStationJob = null
         }
     }
 
