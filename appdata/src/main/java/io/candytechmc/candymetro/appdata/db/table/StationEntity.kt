@@ -46,16 +46,29 @@ class StationEntity(
     var y: Int = 0
 
     @ColumnInfo(name = "platforms_raw")
-    var platformsRaw: String = ""
+    var platformList: List<Platform> = emptyList()
 
     @ColumnInfo(name = "transfer_raw")
-    var transferRaw: String = ""
+    var interchangeList: List<Interchange> = emptyList()
 
     @ColumnInfo(name = "length")
     var length: Int = 0
 
     @ColumnInfo(name = "is_open")
     var isOpen: Boolean = false
+
+    data class Platform(
+        val platformID: Int,
+        val isLeft: Boolean
+    )
+
+    data class Interchange(
+        val lineID: Int,
+        val stationID: Int,
+        @ColorInt
+        val color: Int,
+        val isOpen: Boolean
+    )
 
     companion object {
         const val tableName = "cm_station"

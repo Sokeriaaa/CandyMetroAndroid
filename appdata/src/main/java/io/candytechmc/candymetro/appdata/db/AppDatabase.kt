@@ -4,6 +4,7 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
+import androidx.room.TypeConverters
 import io.candytechmc.candymetro.appdata.db.dao.LineDao
 import io.candytechmc.candymetro.appdata.db.dao.StationDao
 import io.candytechmc.candymetro.appdata.db.table.LineEntity
@@ -21,6 +22,9 @@ import io.candytechmc.candymetro.appdata.db.table.StationEntity
     ],
     version = 1,
     exportSchema = false
+)
+@TypeConverters(
+    MyTypeConverter::class
 )
 abstract class AppDatabase : RoomDatabase() {
 

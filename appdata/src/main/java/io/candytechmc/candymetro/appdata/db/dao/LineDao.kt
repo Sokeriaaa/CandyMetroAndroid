@@ -1,6 +1,10 @@
 package io.candytechmc.candymetro.appdata.db.dao
 
 import androidx.room.Dao
+import androidx.room.Insert
+import androidx.room.OnConflictStrategy
+import androidx.room.Query
+import io.candytechmc.candymetro.appdata.db.table.LineEntity
 
 /**
  * Metro lines Dao
@@ -9,4 +13,20 @@ import androidx.room.Dao
  */
 @Dao
 interface LineDao {
+
+    @Query(
+        value = "SELECT * FROM `${LineEntity.tableName}`"
+    )
+    fun queryAll(): List<LineEntity>
+
+    @Insert(
+        onConflict = OnConflictStrategy.REPLACE
+    )
+    fun insertList(list: List<LineEntity>)
+
+    @Query(
+        value = "DELETE FROM `${LineEntity.tableName}`"
+    )
+    fun clear()
+
 }
