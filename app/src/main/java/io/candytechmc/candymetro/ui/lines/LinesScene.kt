@@ -1,6 +1,9 @@
 package io.candytechmc.candymetro.ui.lines
 
+import android.content.Intent
+import android.net.Uri
 import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -9,7 +12,9 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
@@ -32,47 +37,83 @@ fun LinesScene(
         viewModel.initLines()
         viewModel.queryStationsForLine(1)
     }
-    LazyColumn(
-        modifier = Modifier.fillMaxWidth()
+    Column(
+        modifier = Modifier.fillMaxSize()
     ) {
-        stickyHeader {
-            Surface(
-                color = MaterialTheme.colorScheme.background
+        LineListHeader(
+            modifier = Modifier.fillMaxWidth(),
+            viewModel = viewModel
+        )
+        LazyColumn(
+            modifier = Modifier
+                .fillMaxWidth()
+                .weight(1F)
+        ) {
+            items(
+                items = viewModel.lineStationList
             ) {
-                Column(
-                    modifier = Modifier.padding(all = 4.dp)
-                ) {
-                    Text(
-                        modifier = Modifier.padding(start = 4.dp),
-                        text = stringResource(id = R.string.line_list_select_line),
-                        color = MaterialTheme.colorScheme.onSurface,
-                        style = MaterialTheme.typography.titleLarge
-                    )
-                    SingleFilterChipGroup(
-                        modifier = Modifier.fillMaxWidth(),
-                        initIndex = 0,
-                        chipList = viewModel.lineList.map {
-                            stringResource(id = R.string.line_label, it.lineID) +
-                                    if (it.isOpen) {
-                                        ""
-                                    } else {
-                                        " (${stringResource(id = R.string.opening_soon)})"
-                                    }
-                        }.toTypedArray(),
-                        onChipClicked = {
-                            viewModel.queryStationsForLine(viewModel.lineList[it].lineID)
-                        }
-                    )
-                }
+                LinesStationCard(
+                    modifier = Modifier.padding(horizontal = 8.dp),
+                    station = it
+                )
             }
         }
-        items(
-            items = viewModel.lineStationList
+    }
+}
+
+@Composable
+private fun LineListHeader(
+    modifier: Modifier = Modifier,
+    viewModel: LinesViewModel
+) {
+    Surface(
+        modifier = modifier,
+        color = MaterialTheme.colorScheme.background
+    ) {
+        Column(
+            modifier = Modifier.padding(all = 4.dp)
         ) {
-            LinesStationCard(
-                modifier = Modifier.padding(horizontal = 8.dp),
-                station = it
+            Text(
+                modifier = Modifier.padding(start = 4.dp),
+                text = stringResource(id = R.string.line_list_select_line),
+                color = MaterialTheme.colorScheme.onSurface,
+                style = MaterialTheme.typography.titleLarge
             )
+            SingleFilterChipGroup(
+                modifier = Modifier.fillMaxWidth(),
+                initIndex = 0,
+                chipList = viewModel.lineList.map {
+                    stringResource(id = R.string.line_label, it.lineID) +
+                            if (it.isOpen) {
+                                ""
+                            } else {
+                                " (${stringResource(id = R.string.opening_soon)})"
+                            }
+                }.toTypedArray(),
+                onChipClicked = {
+                    viewModel.queryStationsForLine(viewModel.lineList[it].lineID)
+                }
+            )
+            // TODO Move this to "About" scene in a future version
+            Row {
+                val context = LocalContext.current
+                val intent = remember {
+                    Intent(
+                        Intent.ACTION_VIEW,
+                        Uri.parse("https://github.com/Sokeriaaa/CandyMetroAndroid")
+                    )
+                }
+                Text(
+                    modifier = Modifier
+                        .padding(start = 4.dp)
+                        .clickable {
+                            context.startActivity(intent)
+                        },
+                    text = "Source Code: https://github.com/Sokeriaaa/CandyMetroAndroid",
+                    color = MaterialTheme.colorScheme.onSurface,
+                    style = MaterialTheme.typography.bodyMedium
+                )
+            }
         }
     }
 }
