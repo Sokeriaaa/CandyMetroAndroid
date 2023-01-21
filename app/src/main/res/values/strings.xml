@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Candy Metro</string>
+
+    <string name="data_resource_lang_type">0</string>
+
+    <string name="line_label">Line %d</string>
+    <string name="interchange">Interchanges</string>
+    <string name="under_construction">Under construction</string>
+    <string name="opening_soon">Opening soon</string>
+
+    <string name="line_list_select_line">Select line</string>
 </resources>

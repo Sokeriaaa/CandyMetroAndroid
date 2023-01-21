@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">糖果地铁</string>
+
+    <string name="data_resource_lang_type">0</string>
+
+    <string name="line_label">%d号线</string>
+    <string name="interchange">换乘</string>
+    <string name="under_construction">正在建设中</string>
+    <string name="opening_soon">暂未开通</string>
+
+    <string name="line_list_select_line">选择线路</string>
 </resources>
