@@ -1,6 +1,7 @@
 package io.candytechmc.candymetro.appdata.app
 
 import io.candytechmc.candymetro.appdata.db.AppDatabase
+import io.candytechmc.candymetro.appdata.db.AssetsDatabaseInit
 import io.candytechmc.candymetro.arch.app.CMArchApplication
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.module.Module
@@ -12,6 +13,11 @@ import org.koin.dsl.module
  * @date 2023/1/17
  */
 open class CMDataApplication : CMArchApplication() {
+
+    override fun onCreate() {
+        super.onCreate()
+        AssetsDatabaseInit.initLinesAndStations(this)
+    }
 
     override fun getKoinModules(): List<Module> {
         return super.getKoinModules() + dataModule

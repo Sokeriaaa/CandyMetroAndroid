@@ -1,0 +1,7502 @@
+[
+  {
+    "lineID": 1,
+    "stationID": 1,
+    "color": 16751103,
+    "zhsName": "斯威特机场",
+    "zhtName": "斯威特機場",
+    "enName": "Sweet Airport",
+    "jpName": "",
+    "krName": "",
+    "x": 5480,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 4,
+        "color": 16737894,
+        "isOpen": true
+      },
+      {
+        "lineID": 10,
+        "stationID": 13,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 2,
+    "color": 16751103,
+    "zhsName": "寒松",
+    "zhtName": "寒松",
+    "enName": "Hansong",
+    "jpName": "",
+    "krName": "",
+    "x": 6000,
+    "y": -360,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 3,
+    "color": 16751103,
+    "zhsName": "寒流",
+    "zhtName": "寒流",
+    "enName": "Hanliu",
+    "jpName": "",
+    "krName": "",
+    "x": 6330,
+    "y": 100,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 25,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 4,
+    "color": 16751103,
+    "zhsName": "杉桥",
+    "zhtName": "杉橋",
+    "enName": "Shanqiao",
+    "jpName": "",
+    "krName": "",
+    "x": 5500,
+    "y": 260,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 5,
+    "color": 16751103,
+    "zhsName": "寒樱",
+    "zhtName": "寒櫻",
+    "enName": "Hanying",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 260,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 6,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 6,
+    "color": 16751103,
+    "zhsName": "千浦",
+    "zhtName": "千浦",
+    "enName": "Qianpu",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": 260,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 25,
+        "color": 10556,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 7,
+    "color": 16751103,
+    "zhsName": "问春",
+    "zhtName": "問春",
+    "enName": "Wenchun",
+    "jpName": "",
+    "krName": "",
+    "x": 3800,
+    "y": 260,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 8,
+    "color": 16751103,
+    "zhsName": "绮砂",
+    "zhtName": "綺砂",
+    "enName": "Qisha",
+    "jpName": "",
+    "krName": "",
+    "x": 3130,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 12,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 9,
+    "color": 16751103,
+    "zhsName": "静波",
+    "zhtName": "靜波",
+    "enName": "Jingbo",
+    "jpName": "",
+    "krName": "",
+    "x": 2600,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 11,
+        "stationID": 2,
+        "color": 3381657,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 10,
+    "color": 16751103,
+    "zhsName": "柳潭",
+    "zhtName": "柳潭",
+    "enName": "Liutan",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 19,
+        "color": 16772198,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 11,
+    "color": 16751103,
+    "zhsName": "鹤川",
+    "zhtName": "鶴川",
+    "enName": "Hechuan",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 13,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 12,
+    "color": 16751103,
+    "zhsName": "杞和",
+    "zhtName": "杞和",
+    "enName": "Qihe",
+    "jpName": "",
+    "krName": "",
+    "x": 750,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 13,
+    "color": 16751103,
+    "zhsName": "青石坞",
+    "zhtName": "青石塢",
+    "enName": "Qingshiwu",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 2,
+        "stationID": 9,
+        "color": 6750207,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 14,
+    "color": 16751103,
+    "zhsName": "赤岩",
+    "zhtName": "赤岩",
+    "enName": "Chiyan",
+    "jpName": "",
+    "krName": "",
+    "x": -550,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 15,
+        "stationID": 13,
+        "color": 13408767,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 15,
+    "color": 16751103,
+    "zhsName": "香樟里",
+    "zhtName": "香樟里",
+    "enName": "Xiangzhangli",
+    "jpName": "",
+    "krName": "",
+    "x": -1050,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 8,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 16,
+    "color": 16751103,
+    "zhsName": "御森",
+    "zhtName": "禦森",
+    "enName": "Yusen",
+    "jpName": "",
+    "krName": "",
+    "x": -1650,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 17,
+    "color": 16751103,
+    "zhsName": "松门",
+    "zhtName": "松門",
+    "enName": "Songmen",
+    "jpName": "",
+    "krName": "",
+    "x": -2400,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 1,
+    "stationID": 18,
+    "color": 16751103,
+    "zhsName": "沙源玻璃厂",
+    "zhtName": "沙源玻璃廠",
+    "enName": "Shayuan Glass Factory",
+    "jpName": "",
+    "krName": "",
+    "x": -3100,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 19,
+    "color": 16751103,
+    "zhsName": "紫岩村",
+    "zhtName": "紫岩村",
+    "enName": "Ziyan Village",
+    "jpName": "",
+    "krName": "",
+    "x": -3750,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 20,
+    "color": 16751103,
+    "zhsName": "约书亚公园",
+    "zhtName": "約書亞公園",
+    "enName": "Joshua Park",
+    "jpName": "",
+    "krName": "",
+    "x": -4500,
+    "y": 400,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 21,
+    "color": 16751103,
+    "zhsName": "神沙村",
+    "zhtName": "神沙村",
+    "enName": "Shensha Village",
+    "jpName": "",
+    "krName": "",
+    "x": -4500,
+    "y": 1100,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 22,
+    "color": 16751103,
+    "zhsName": "20号村庄",
+    "zhtName": "20號村莊",
+    "enName": "No.20 Village",
+    "jpName": "",
+    "krName": "",
+    "x": -4500,
+    "y": 1750,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 23,
+    "color": 16751103,
+    "zhsName": "湖中岛",
+    "zhtName": "湖中島",
+    "enName": "Huzhongdao",
+    "jpName": "",
+    "krName": "",
+    "x": -4250,
+    "y": 2200,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 24,
+    "color": 16751103,
+    "zhsName": "18号村庄",
+    "zhtName": "18號村莊",
+    "enName": "No.18 Village",
+    "jpName": "",
+    "krName": "",
+    "x": -3650,
+    "y": 2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 25,
+    "color": 16751103,
+    "zhsName": "翠砂",
+    "zhtName": "翠砂",
+    "enName": "Cuisha",
+    "jpName": "",
+    "krName": "",
+    "x": -3650,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 4,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 26,
+    "color": 16751103,
+    "zhsName": "前坞农场",
+    "zhtName": "前塢農場",
+    "enName": "Qianwu Farm",
+    "jpName": "",
+    "krName": "",
+    "x": -3650,
+    "y": 4200,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 27,
+    "color": 16751103,
+    "zhsName": "下垄汽车站",
+    "zhtName": "下壟汽車站",
+    "enName": "Xialong Bus Terminal",
+    "jpName": "",
+    "krName": "",
+    "x": -3650,
+    "y": 4700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 28,
+    "color": 16751103,
+    "zhsName": "2号村庄",
+    "zhtName": "2號村莊",
+    "enName": "No.2 Village",
+    "jpName": "",
+    "krName": "",
+    "x": -3650,
+    "y": 5200,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 29,
+    "color": 16751103,
+    "zhsName": "红树林",
+    "zhtName": "紅樹林",
+    "enName": "Hongshulin",
+    "jpName": "",
+    "krName": "",
+    "x": -3650,
+    "y": 5900,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 3,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 30,
+    "color": 16751103,
+    "zhsName": "海月国际机场",
+    "zhtName": "海月國際機場",
+    "enName": "Haiyue International Airport",
+    "jpName": "",
+    "krName": "",
+    "x": -4200,
+    "y": 6050,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 2,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 1,
+    "stationID": 31,
+    "color": 16751103,
+    "zhsName": "望冬花园",
+    "zhtName": "望冬花園",
+    "enName": "Wangdong Garden",
+    "jpName": "",
+    "krName": "",
+    "x": -4350,
+    "y": 6400,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 2,
+    "stationID": 1,
+    "color": 6750207,
+    "zhsName": "橡山",
+    "zhtName": "橡山",
+    "enName": "Xiangshan",
+    "jpName": "",
+    "krName": "",
+    "x": -1250,
+    "y": 5675,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 2,
+    "color": 6750207,
+    "zhsName": "江河汇",
+    "zhtName": "江河匯",
+    "enName": "Jianghehui",
+    "jpName": "",
+    "krName": "",
+    "x": -970,
+    "y": 5350,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 3,
+    "color": 6750207,
+    "zhsName": "涵南",
+    "zhtName": "涵南",
+    "enName": "Hannan",
+    "jpName": "",
+    "krName": "",
+    "x": -268,
+    "y": 5150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 8,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 4,
+    "color": 6750207,
+    "zhsName": "涵陵",
+    "zhtName": "涵陵",
+    "enName": "Hanling",
+    "jpName": "",
+    "krName": "",
+    "x": -268,
+    "y": 4680,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 5,
+    "color": 6750207,
+    "zhsName": "海洋之心",
+    "zhtName": "海洋之心",
+    "enName": "Heart of the Sea",
+    "jpName": "",
+    "krName": "",
+    "x": -268,
+    "y": 3700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 6,
+    "color": 6750207,
+    "zhsName": "末地传送门",
+    "zhtName": "末地傳送門",
+    "enName": "End Portal",
+    "jpName": "",
+    "krName": "",
+    "x": -268,
+    "y": 2620,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      },
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 16,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 7,
+    "color": 6750207,
+    "zhsName": "神木",
+    "zhtName": "神木",
+    "enName": "Shenmu",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": 1500,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 13,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 8,
+    "color": 6750207,
+    "zhsName": "雪梦路",
+    "zhtName": "雪夢路",
+    "enName": "Snowdream Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": 700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 9,
+    "color": 6750207,
+    "zhsName": "青石坞",
+    "zhtName": "青石塢",
+    "enName": "Qingshiwu",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 13,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 10,
+    "color": 6750207,
+    "zhsName": "会展",
+    "zhtName": "會展",
+    "enName": "Exhibition",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": -800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 16,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 11,
+    "color": 6750207,
+    "zhsName": "墨塘",
+    "zhtName": "墨塘",
+    "enName": "Motang",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": -1775,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 11,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 12,
+    "color": 6750207,
+    "zhsName": "棕榈台",
+    "zhtName": "棕櫚台",
+    "enName": "Zonglvtai",
+    "jpName": "",
+    "krName": "",
+    "x": 600,
+    "y": -1850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 10,
+        "stationID": 21,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 13,
+    "color": 6750207,
+    "zhsName": "工业园",
+    "zhtName": "工業園",
+    "enName": "Industrial Park",
+    "jpName": "",
+    "krName": "",
+    "x": 1200,
+    "y": -1850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "stationID": 14,
+    "color": 6750207,
+    "zhsName": "文佐",
+    "zhtName": "文佐",
+    "enName": "Venzor",
+    "jpName": "",
+    "krName": "",
+    "x": 1950,
+    "y": -1950,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 16,
+        "color": 16772198,
+        "isOpen": true
+      },
+      {
+        "lineID": 4,
+        "stationID": 16,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 15,
+    "color": 16772198,
+    "zhsName": "纪千宿",
+    "zhtName": "紀千宿",
+    "enName": "Kisenjuku",
+    "jpName": "",
+    "krName": "",
+    "x": 1950,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 15,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 16,
+    "color": 16772198,
+    "zhsName": "文佐",
+    "zhtName": "文佐",
+    "enName": "Venzor",
+    "jpName": "",
+    "krName": "",
+    "x": 1950,
+    "y": -1950,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 2,
+        "stationID": 14,
+        "color": 6750207,
+        "isOpen": true
+      },
+      {
+        "lineID": 4,
+        "stationID": 16,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 17,
+    "color": 16772198,
+    "zhsName": "沼桐",
+    "zhtName": "沼桐",
+    "enName": "Zhaotong",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": -1350,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 18,
+    "color": 16772198,
+    "zhsName": "砂糖路",
+    "zhtName": "砂糖路",
+    "enName": "Sugar Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 10,
+        "stationID": 17,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 19,
+    "color": 16772198,
+    "zhsName": "柳潭",
+    "zhtName": "柳潭",
+    "enName": "Liutan",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 10,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 20,
+    "color": 16772198,
+    "zhsName": "雨津",
+    "zhtName": "雨津",
+    "enName": "Yujin",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 1000,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 21,
+    "color": 16772198,
+    "zhsName": "糖果城堡",
+    "zhtName": "糖果城堡",
+    "enName": "The Candy Castle",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 1750,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 12,
+        "color": 16737894,
+        "isOpen": true
+      },
+      {
+        "lineID": 15,
+        "stationID": 6,
+        "color": 13408767,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 22,
+    "color": 16772198,
+    "zhsName": "紫金塘",
+    "zhtName": "紫金塘",
+    "enName": "Zijintang",
+    "jpName": "",
+    "krName": "",
+    "x": 2450,
+    "y": 2100,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 11,
+        "stationID": 5,
+        "color": 3381657,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 23,
+    "color": 16772198,
+    "zhsName": "石门",
+    "zhtName": "石門",
+    "enName": "Stone Gate",
+    "jpName": "",
+    "krName": "",
+    "x": 2700,
+    "y": 2750,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 8,
+        "stationID": 1,
+        "color": 26367,
+        "isOpen": false
+      },
+      {
+        "lineID": 12,
+        "stationID": 19,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 24,
+    "color": 16772198,
+    "zhsName": "望舒客栈",
+    "zhtName": "望舒客棧",
+    "enName": "Wangshu Inn",
+    "jpName": "",
+    "krName": "",
+    "x": 2700,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 14,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 25,
+    "color": 16772198,
+    "zhsName": "玲珑观",
+    "zhtName": "玲瓏觀",
+    "enName": "Linglongguan",
+    "jpName": "",
+    "krName": "",
+    "x": 2500,
+    "y": 4100,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 26,
+    "color": 16772198,
+    "zhsName": "朱雀楼",
+    "zhtName": "朱雀樓",
+    "enName": "Zhuquelou",
+    "jpName": "",
+    "krName": "",
+    "x": 2300,
+    "y": 4700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 4,
+        "color": 10040115,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "stationID": 27,
+    "color": 16772198,
+    "zhsName": "樱桃湾",
+    "zhtName": "櫻桃灣",
+    "enName": "Cherry Bay",
+    "jpName": "",
+    "krName": "",
+    "x": 2300,
+    "y": 5425,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 5,
+    "color": 6697983,
+    "zhsName": "凛风",
+    "zhtName": "凜風",
+    "enName": "Linfeng",
+    "jpName": "",
+    "krName": "",
+    "x": 5500,
+    "y": 2200,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 6,
+    "color": 6697983,
+    "zhsName": "货运中心",
+    "zhtName": "貨運中心",
+    "enName": "Freight Center",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 2000,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 19,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 7,
+    "color": 6697983,
+    "zhsName": "糖果火车站",
+    "zhtName": "糖果火車站",
+    "enName": "Candy Railway Station",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": 2200,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 22,
+        "color": 10556,
+        "isOpen": true
+      },
+      {
+        "lineID": 15,
+        "stationID": 1,
+        "color": 13408767,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 8,
+    "color": 6697983,
+    "zhsName": "塔林",
+    "zhtName": "塔林",
+    "enName": "Tarrin",
+    "jpName": "",
+    "krName": "",
+    "x": 3850,
+    "y": 2200,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 15,
+        "stationID": 2,
+        "color": 13408767,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 9,
+    "color": 6697983,
+    "zhsName": "墨泽",
+    "zhtName": "墨澤",
+    "enName": "Moze",
+    "jpName": "",
+    "krName": "",
+    "x": 3300,
+    "y": 2100,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 15,
+        "stationID": 3,
+        "color": 13408767,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 10,
+    "color": 6697983,
+    "zhsName": "良叶",
+    "zhtName": "良葉",
+    "enName": "Liangye",
+    "jpName": "",
+    "krName": "",
+    "x": 3300,
+    "y": 1480,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 10,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 11,
+    "color": 6697983,
+    "zhsName": "新永",
+    "zhtName": "新永",
+    "enName": "Xinyong",
+    "jpName": "",
+    "krName": "",
+    "x": 3300,
+    "y": 650,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 12,
+    "color": 6697983,
+    "zhsName": "绮砂",
+    "zhtName": "綺砂",
+    "enName": "Qisha",
+    "jpName": "",
+    "krName": "",
+    "x": 3130,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 8,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 13,
+    "color": 6697983,
+    "zhsName": "魔王殿",
+    "zhtName": "魔王殿",
+    "enName": "Devil Palace",
+    "jpName": "",
+    "krName": "",
+    "x": 2800,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 10,
+        "stationID": 16,
+        "color": 14085399,
+        "isOpen": true
+      },
+      {
+        "lineID": 11,
+        "stationID": 1,
+        "color": 3381657,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 14,
+    "color": 6697983,
+    "zhsName": "定远矿井",
+    "zhtName": "定遠礦井",
+    "enName": "Dingyuan Shaft",
+    "jpName": "",
+    "krName": "",
+    "x": 2800,
+    "y": -1350,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 15,
+    "color": 6697983,
+    "zhsName": "筠辰",
+    "zhtName": "筠辰",
+    "enName": "Yunchen",
+    "jpName": "",
+    "krName": "",
+    "x": 2580,
+    "y": -1950,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 16,
+    "color": 6697983,
+    "zhsName": "文佐",
+    "zhtName": "文佐",
+    "enName": "Venzor",
+    "jpName": "",
+    "krName": "",
+    "x": 1950,
+    "y": -1950,
+    "platformList": [
+      {
+        "platformID": 5,
+        "isLeft": true
+      },
+      {
+        "platformID": 6,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 2,
+        "stationID": 14,
+        "color": 6750207,
+        "isOpen": true
+      },
+      {
+        "lineID": 3,
+        "stationID": 16,
+        "color": 16772198,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 17,
+    "color": 6697983,
+    "zhsName": "双邸气象站",
+    "zhtName": "雙邸氣象站",
+    "enName": "Shuangdi Weather Station",
+    "jpName": "",
+    "krName": "",
+    "x": 1260,
+    "y": -2100,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 18,
+    "color": 6697983,
+    "zhsName": "幻渊",
+    "zhtName": "幻淵",
+    "enName": "Windy Depths",
+    "jpName": "",
+    "krName": "",
+    "x": 600,
+    "y": -2375,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 10,
+        "stationID": 22,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 19,
+    "color": 6697983,
+    "zhsName": "鹤望兰",
+    "zhtName": "鶴望蘭",
+    "enName": "Strelitzia",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": -2375,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 12,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 20,
+    "color": 6697983,
+    "zhsName": "大水坑",
+    "zhtName": "大水坑",
+    "enName": "Dashuikeng",
+    "jpName": "",
+    "krName": "",
+    "x": -750,
+    "y": -2600,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 21,
+    "color": 6697983,
+    "zhsName": "松德新村",
+    "zhtName": "松德新村",
+    "enName": "Songde Village",
+    "jpName": "",
+    "krName": "",
+    "x": -1650,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 22,
+    "color": 6697983,
+    "zhsName": "水仙港",
+    "zhtName": "水仙港",
+    "enName": "Daffodil Port",
+    "jpName": "",
+    "krName": "",
+    "x": -2400,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "stationID": 23,
+    "color": 6697983,
+    "zhsName": "松坪卫",
+    "zhtName": "松坪衛",
+    "enName": "Songpingwei",
+    "jpName": "",
+    "krName": "",
+    "x": -3080,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 23,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 1,
+    "color": 16737894,
+    "zhsName": "风铃小镇",
+    "zhtName": "風鈴小鎮",
+    "enName": "Wind Chime Town",
+    "jpName": "",
+    "krName": "",
+    "x": 7815,
+    "y": -1000,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 2,
+    "color": 16737894,
+    "zhsName": "神里屋敷",
+    "zhtName": "神里屋敷",
+    "enName": "Kamisato Estate",
+    "jpName": "",
+    "krName": "",
+    "x": 7000,
+    "y": -1000,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 3,
+    "color": 16737894,
+    "zhsName": "苏弗雷工坊",
+    "zhtName": "蘇弗雷工坊",
+    "enName": "Soufflé Cake Workshop",
+    "jpName": "",
+    "krName": "",
+    "x": 6330,
+    "y": -1000,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 4,
+    "color": 16737894,
+    "zhsName": "斯威特机场",
+    "zhtName": "斯威特機場",
+    "enName": "Sweet Airport",
+    "jpName": "",
+    "krName": "",
+    "x": 5480,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 1,
+        "color": 16751103,
+        "isOpen": true
+      },
+      {
+        "lineID": 10,
+        "stationID": 13,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 5,
+    "color": 16737894,
+    "zhsName": "提拉米苏",
+    "zhtName": "提拉米蘇",
+    "enName": "Tiramisu",
+    "jpName": "",
+    "krName": "",
+    "x": 5200,
+    "y": -470,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 6,
+    "color": 16737894,
+    "zhsName": "寒樱",
+    "zhtName": "寒櫻",
+    "enName": "Hanying",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 260,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 5,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 7,
+    "color": 16737894,
+    "zhsName": "甜品学院",
+    "zhtName": "甜品學院",
+    "enName": "Dessert Academy",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 1210,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 21,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 8,
+    "color": 16737894,
+    "zhsName": "糖果大教堂",
+    "zhtName": "糖果大教堂",
+    "enName": "Candy Cathedral",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": 1480,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 23,
+        "color": 10556,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 9,
+    "color": 16737894,
+    "zhsName": "紫珀大街",
+    "zhtName": "紫珀大街",
+    "enName": "Purpur Avenue",
+    "jpName": "",
+    "krName": "",
+    "x": 3700,
+    "y": 1480,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 10,
+    "color": 16737894,
+    "zhsName": "良叶",
+    "zhtName": "良葉",
+    "enName": "Liangye",
+    "jpName": "",
+    "krName": "",
+    "x": 3300,
+    "y": 1480,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 10,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 11,
+    "color": 16737894,
+    "zhsName": "独立广场",
+    "zhtName": "獨立廣場",
+    "enName": "Independence Plaza",
+    "jpName": "",
+    "krName": "",
+    "x": 2600,
+    "y": 1480,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 11,
+        "stationID": 4,
+        "color": 3381657,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 12,
+    "color": 16737894,
+    "zhsName": "糖果城堡",
+    "zhtName": "糖果城堡",
+    "enName": "Candy Castle",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 1750,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 21,
+        "color": 16772198,
+        "isOpen": true
+      },
+      {
+        "lineID": 15,
+        "stationID": 6,
+        "color": 13408767,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 13,
+    "color": 16737894,
+    "zhsName": "沼潮",
+    "zhtName": "沼潮",
+    "enName": "Zhaochao",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 2378,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 11,
+        "stationID": 6,
+        "color": 3381657,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 14,
+    "color": 16737894,
+    "zhsName": "糖果塔",
+    "zhtName": "糖果塔",
+    "enName": "Candy Tower",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 2620,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 9,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 15,
+    "color": 16737894,
+    "zhsName": "天空之柱",
+    "zhtName": "天空之柱",
+    "enName": "Pillar of Sky",
+    "jpName": "",
+    "krName": "",
+    "x": 600,
+    "y": 2620,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 16,
+    "color": 16737894,
+    "zhsName": "末地传送门",
+    "zhtName": "末地傳送門",
+    "enName": "End Portal",
+    "jpName": "",
+    "krName": "",
+    "x": -268,
+    "y": 2620,
+    "platformList": [
+      {
+        "platformID": 5,
+        "isLeft": true
+      },
+      {
+        "platformID": 6,
+        "isLeft": true
+      },
+      {
+        "platformID": 7,
+        "isLeft": false
+      },
+      {
+        "platformID": 8,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 2,
+        "stationID": 6,
+        "color": 6750207,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 17,
+    "color": 16737894,
+    "zhsName": "青石门",
+    "zhtName": "青石門",
+    "enName": "Qingshimen",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": 2620,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 4,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "stationID": 18,
+    "color": 16737894,
+    "zhsName": "雨溪卫",
+    "zhtName": "雨溪衛",
+    "enName": "Yuxiwei",
+    "jpName": "",
+    "krName": "",
+    "x": -1880,
+    "y": 2620,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 5,
+    "stationID": 19,
+    "color": 16737894,
+    "zhsName": "潮涌高铁站",
+    "zhtName": "潮湧高鐵站",
+    "enName": "Chaoyong HRS Station",
+    "jpName": "",
+    "krName": "",
+    "x": -2700,
+    "y": 2500,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 7,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 6,
+    "stationID": 1,
+    "color": 10092339,
+    "zhsName": "百芹",
+    "zhtName": "百芹",
+    "enName": "Baiqin",
+    "jpName": "",
+    "krName": "",
+    "x": -1300,
+    "y": 5150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 7,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 2,
+    "color": 10092339,
+    "zhsName": "果园",
+    "zhtName": "果園",
+    "enName": "Orchard",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": 4635,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 3,
+    "color": 10092339,
+    "zhsName": "海上游乐园",
+    "zhtName": "海上游樂園",
+    "enName": "Sea Amusement Park",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": 3700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 4,
+    "color": 10092339,
+    "zhsName": "青石门",
+    "zhtName": "青石門",
+    "enName": "Qingshimen",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": 2620,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 17,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 5,
+    "color": 10092339,
+    "zhsName": "潮涌剧院",
+    "zhtName": "潮湧劇院",
+    "enName": "Chaoyong Theater",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": 1850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 6,
+    "color": 10092339,
+    "zhsName": "奥体中心",
+    "zhtName": "奧體中心",
+    "enName": "Olympic Sports Center",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": 1250,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 11,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 7,
+    "color": 10092339,
+    "zhsName": "档案馆",
+    "zhtName": "檔案館",
+    "enName": "Archives",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": 750,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 8,
+    "color": 10092339,
+    "zhsName": "香樟里",
+    "zhtName": "香樟里",
+    "enName": "Xiangzhangli",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 15,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 9,
+    "color": 10092339,
+    "zhsName": "市民中心",
+    "zhtName": "市民中心",
+    "enName": "Citizen Center",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": -850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 18,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 10,
+    "color": 10092339,
+    "zhsName": "桂湖",
+    "zhtName": "桂湖",
+    "enName": "The Osmanthus Lake",
+    "jpName": "",
+    "krName": "",
+    "x": -750,
+    "y": -1500,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 15,
+        "stationID": 16,
+        "color": 13408767,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 11,
+    "color": 10092339,
+    "zhsName": "墨塘",
+    "zhtName": "墨塘",
+    "enName": "Motang",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": -1775,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 2,
+        "stationID": 11,
+        "color": 6750207,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 12,
+    "color": 10092339,
+    "zhsName": "鹤望兰",
+    "zhtName": "鶴望蘭",
+    "enName": "Strelitzia",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": -2375,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 19,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 13,
+    "color": 10092339,
+    "zhsName": "半夏",
+    "zhtName": "半夏",
+    "enName": "Banxia",
+    "jpName": "",
+    "krName": "",
+    "x": 600,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 10,
+        "stationID": 23,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 14,
+    "color": 10092339,
+    "zhsName": "浮光",
+    "zhtName": "浮光",
+    "enName": "Fuguang",
+    "jpName": "",
+    "krName": "",
+    "x": 1310,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 15,
+    "color": 10092339,
+    "zhsName": "纪千宿",
+    "zhtName": "紀千宿",
+    "enName": "Kisenjuku",
+    "jpName": "",
+    "krName": "",
+    "x": 1950,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 15,
+        "color": 16772198,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 16,
+    "color": 10092339,
+    "zhsName": "柠溪",
+    "zhtName": "檸溪",
+    "enName": "Ningxi",
+    "jpName": "",
+    "krName": "",
+    "x": 2600,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 17,
+    "color": 10092339,
+    "zhsName": "清酒",
+    "zhtName": "清酒",
+    "enName": "Qingjiu",
+    "jpName": "",
+    "krName": "",
+    "x": 3170,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 18,
+    "color": 10092339,
+    "zhsName": "棠梨",
+    "zhtName": "棠梨",
+    "enName": "Tangli",
+    "jpName": "",
+    "krName": "",
+    "x": 4000,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "stationID": 19,
+    "color": 10092339,
+    "zhsName": "凉曦",
+    "zhtName": "涼曦",
+    "enName": "Liangxi",
+    "jpName": "",
+    "krName": "",
+    "x": 4620,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 6,
+    "stationID": 20,
+    "color": 10092339,
+    "zhsName": "倚山",
+    "zhtName": "倚山",
+    "enName": "Yishan",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": -2120,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 29,
+        "color": 10556,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 6,
+    "stationID": 21,
+    "color": 10092339,
+    "zhsName": "蘩藜",
+    "zhtName": "蘩藜",
+    "enName": "Fanli",
+    "jpName": "",
+    "krName": "",
+    "x": 5600,
+    "y": -2120,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 30,
+        "color": 10556,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 6,
+    "stationID": 22,
+    "color": 10092339,
+    "zhsName": "溶洞公园",
+    "zhtName": "溶洞公園",
+    "enName": "Karst Cave Park",
+    "jpName": "",
+    "krName": "",
+    "x": 6330,
+    "y": -2100,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 28,
+        "color": 10066176,
+        "isOpen": false
+      },
+      {
+        "lineID": 12,
+        "stationID": 31,
+        "color": 10556,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 1,
+    "color": 10066176,
+    "zhsName": "海月码头",
+    "zhtName": "海月碼頭",
+    "enName": "Haiyue Wharf",
+    "jpName": "",
+    "krName": "",
+    "x": -4600,
+    "y": 6050,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 2,
+    "color": 10066176,
+    "zhsName": "海月国际机场",
+    "zhtName": "海月國際機場",
+    "enName": "Haiyue International Airport",
+    "jpName": "",
+    "krName": "",
+    "x": -4200,
+    "y": 6050,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 30,
+        "color": 16751103,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 3,
+    "color": 10066176,
+    "zhsName": "红树林",
+    "zhtName": "紅樹林",
+    "enName": "Hongshulin",
+    "jpName": "",
+    "krName": "",
+    "x": -3650,
+    "y": 5925,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 29,
+        "color": 16751103,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 4,
+    "color": 10066176,
+    "zhsName": "龙河",
+    "zhtName": "龍河",
+    "enName": "Longhe",
+    "jpName": "",
+    "krName": "",
+    "x": -2700,
+    "y": 5830,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 5,
+    "color": 10066176,
+    "zhsName": "云林",
+    "zhtName": "雲林",
+    "enName": "Yunlin",
+    "jpName": "",
+    "krName": "",
+    "x": -2500,
+    "y": 5200,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 6,
+    "color": 10066176,
+    "zhsName": "后山村",
+    "zhtName": "後山村",
+    "enName": "Houshan Village",
+    "jpName": "",
+    "krName": "",
+    "x": -1900,
+    "y": 5200,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 7,
+    "color": 10066176,
+    "zhsName": "百芹",
+    "zhtName": "百芹",
+    "enName": "Baiqin",
+    "jpName": "",
+    "krName": "",
+    "x": -1300,
+    "y": 5200,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 1,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 8,
+    "color": 10066176,
+    "zhsName": "涵南",
+    "zhtName": "涵南",
+    "enName": "Hannan",
+    "jpName": "",
+    "krName": "",
+    "x": -268,
+    "y": 5150,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 2,
+        "stationID": 3,
+        "color": 6750207,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 9,
+    "color": 10066176,
+    "zhsName": "渔人码头",
+    "zhtName": "漁人碼頭",
+    "enName": "Fisherman's Wharf",
+    "jpName": "",
+    "krName": "",
+    "x": 500,
+    "y": 5150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 10,
+    "color": 10066176,
+    "zhsName": "大南门",
+    "zhtName": "大南門",
+    "enName": "Dananmen",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 4975,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 11,
+    "color": 10066176,
+    "zhsName": "星落谷",
+    "zhtName": "星落谷",
+    "enName": "Starfall Valley",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 4250,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 6,
+        "color": 10040115,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 12,
+    "color": 10066176,
+    "zhsName": "密洮关",
+    "zhtName": "密洮關",
+    "enName": "Mitaoguan",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 3700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 7,
+        "color": 10040115,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 13,
+    "color": 10066176,
+    "zhsName": "澄水滩",
+    "zhtName": "澄水灘",
+    "enName": "Chengshui Beach",
+    "jpName": "",
+    "krName": "",
+    "x": 1800,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 11,
+        "stationID": 8,
+        "color": 3381657,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 14,
+    "color": 10066176,
+    "zhsName": "望舒客栈",
+    "zhtName": "望舒客棧",
+    "enName": "Wangshu Inn",
+    "jpName": "",
+    "krName": "",
+    "x": 2700,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 24,
+        "color": 16772198,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 15,
+    "color": 10066176,
+    "zhsName": "乾安门",
+    "zhtName": "乾安門",
+    "enName": "Qian'anmen",
+    "jpName": "",
+    "krName": "",
+    "x": 3600,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 16,
+    "color": 10066176,
+    "zhsName": "铁岭",
+    "zhtName": "鐵嶺",
+    "enName": "Iron Hill",
+    "jpName": "",
+    "krName": "",
+    "x": 4350,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 17,
+    "color": 10066176,
+    "zhsName": "灵泽",
+    "zhtName": "靈澤",
+    "enName": "Lingze",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 3400,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 18,
+    "color": 10066176,
+    "zhsName": "萍江",
+    "zhtName": "萍江",
+    "enName": "Pingjiang",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 2800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 8,
+        "stationID": 4,
+        "color": 26367,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 19,
+    "color": 10066176,
+    "zhsName": "货运中心",
+    "zhtName": "貨運中心",
+    "enName": "Freight Center",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 2200,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 6,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 20,
+    "color": 10066176,
+    "zhsName": "果冻博览馆",
+    "zhtName": "果凍博覽館",
+    "enName": "Jell-Expo",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 1715,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 21,
+    "color": 10066176,
+    "zhsName": "甜品学院",
+    "zhtName": "甜品學院",
+    "enName": "Dessert Academy",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 1210,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 7,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 22,
+    "color": 10066176,
+    "zhsName": "甜品冷藏库",
+    "zhtName": "甜品冷藏庫",
+    "enName": "Dessert Cold Storage",
+    "jpName": "",
+    "krName": "",
+    "x": 5400,
+    "y": 900,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 23,
+    "color": 10066176,
+    "zhsName": "薄荷冰沙",
+    "zhtName": "薄荷冰沙",
+    "enName": "Mint Smoothie",
+    "jpName": "",
+    "krName": "",
+    "x": 5900,
+    "y": 900,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 24,
+    "color": 10066176,
+    "zhsName": "寒瀑",
+    "zhtName": "寒瀑",
+    "enName": "Hanpu",
+    "jpName": "",
+    "krName": "",
+    "x": 6330,
+    "y": 750,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 25,
+    "color": 10066176,
+    "zhsName": "寒流",
+    "zhtName": "寒流",
+    "enName": "Hanliu",
+    "jpName": "",
+    "krName": "",
+    "x": 6330,
+    "y": 100,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 3,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 26,
+    "color": 10066176,
+    "zhsName": "欧培拉",
+    "zhtName": "歐培拉",
+    "enName": "Opera Cake",
+    "jpName": "",
+    "krName": "",
+    "x": 6330,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 10,
+        "stationID": 12,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 27,
+    "color": 10066176,
+    "zhsName": "朱古力挞",
+    "zhtName": "朱古力撻",
+    "enName": "Chocolate Tart",
+    "jpName": "",
+    "krName": "",
+    "x": 6330,
+    "y": -1425,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 7,
+    "stationID": 28,
+    "color": 10066176,
+    "zhsName": "溶洞公园",
+    "zhtName": "溶洞公園",
+    "enName": "Karst Cave Park",
+    "jpName": "",
+    "krName": "",
+    "x": 6330,
+    "y": -2100,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 22,
+        "color": 10092339,
+        "isOpen": false
+      },
+      {
+        "lineID": 12,
+        "stationID": 31,
+        "color": 10556,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 1,
+    "color": 26367,
+    "zhsName": "石门",
+    "zhtName": "石門",
+    "enName": "Stone Gate",
+    "jpName": "",
+    "krName": "",
+    "x": 2700,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 23,
+        "color": 16772198,
+        "isOpen": true
+      },
+      {
+        "lineID": 12,
+        "stationID": 19,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 2,
+    "color": 26367,
+    "zhsName": "地形实验室",
+    "zhtName": "地形實驗室",
+    "enName": "Topography lab",
+    "jpName": "",
+    "krName": "",
+    "x": 3500,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 20,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 3,
+    "color": 26367,
+    "zhsName": "东森",
+    "zhtName": "東森",
+    "enName": "Dongsen",
+    "jpName": "",
+    "krName": "",
+    "x": 4150,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 21,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 4,
+    "color": 26367,
+    "zhsName": "萍江",
+    "zhtName": "萍江",
+    "enName": "Pingjiang",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 18,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 5,
+    "color": 26367,
+    "zhsName": "旅亭",
+    "zhtName": "旅亭",
+    "enName": "Lvting",
+    "jpName": "",
+    "krName": "",
+    "x": 5525,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 6,
+    "color": 26367,
+    "zhsName": "晴雪",
+    "zhtName": "晴雪",
+    "enName": "Qingxue",
+    "jpName": "",
+    "krName": "",
+    "x": 6600,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 7,
+    "color": 26367,
+    "zhsName": "山水间",
+    "zhtName": "山水間",
+    "enName": "Shanshuijian",
+    "jpName": "",
+    "krName": "",
+    "x": 7400,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 8,
+    "color": 26367,
+    "zhsName": "六月岩",
+    "zhtName": "六月岩",
+    "enName": "Liuyueyan",
+    "jpName": "",
+    "krName": "",
+    "x": 8400,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 9,
+    "color": 26367,
+    "zhsName": "西泉泰",
+    "zhtName": "西泉泰",
+    "enName": "Xiquantai",
+    "jpName": "",
+    "krName": "",
+    "x": 10300,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 10,
+    "color": 26367,
+    "zhsName": "糖果东站",
+    "zhtName": "糖果東站",
+    "enName": "Candy East Railway Station",
+    "jpName": "",
+    "krName": "",
+    "x": 11500,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 11,
+    "color": 26367,
+    "zhsName": "平林",
+    "zhtName": "平林",
+    "enName": "Pinglin",
+    "jpName": "",
+    "krName": "",
+    "x": 11750,
+    "y": 4700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 12,
+    "color": 26367,
+    "zhsName": "南瓜小镇",
+    "zhtName": "南瓜小鎮",
+    "enName": "Pumpkin Town",
+    "jpName": "",
+    "krName": "",
+    "x": 11750,
+    "y": 5700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 13,
+    "color": 26367,
+    "zhsName": "马兰头",
+    "zhtName": "馬蘭頭",
+    "enName": "Malantou",
+    "jpName": "",
+    "krName": "",
+    "x": 11750,
+    "y": 6700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 14,
+    "color": 26367,
+    "zhsName": "杜鹃岭",
+    "zhtName": "杜鵑嶺",
+    "enName": "Rhododendron Hill",
+    "jpName": "",
+    "krName": "",
+    "x": 11750,
+    "y": 7500,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "stationID": 15,
+    "color": 26367,
+    "zhsName": "金鱼港",
+    "zhtName": "金魚港",
+    "enName": "Goldfish Port",
+    "jpName": "",
+    "krName": "",
+    "x": 11750,
+    "y": 8500,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "stationID": 1,
+    "color": 10040115,
+    "zhsName": "莲华",
+    "zhtName": "蓮華",
+    "enName": "Lianhua",
+    "jpName": "",
+    "krName": "",
+    "x": 5550,
+    "y": 4700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "stationID": 2,
+    "color": 10040115,
+    "zhsName": "白石",
+    "zhtName": "白石",
+    "enName": "Baishi",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": 4700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "stationID": 3,
+    "color": 10040115,
+    "zhsName": "梨花坞",
+    "zhtName": "梨花塢",
+    "enName": "Lihuawu",
+    "jpName": "",
+    "krName": "",
+    "x": 3350,
+    "y": 4700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "stationID": 4,
+    "color": 10040115,
+    "zhsName": "朱雀楼",
+    "zhtName": "朱雀樓",
+    "enName": "Zhuquelou",
+    "jpName": "",
+    "krName": "",
+    "x": 2300,
+    "y": 4700,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 26,
+        "color": 16772198,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "stationID": 5,
+    "color": 10040115,
+    "zhsName": "石头公园",
+    "zhtName": "石頭公園",
+    "enName": "Stone Park",
+    "jpName": "",
+    "krName": "",
+    "x": 1800,
+    "y": 4700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 11,
+        "stationID": 10,
+        "color": 3381657,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "stationID": 6,
+    "color": 10040115,
+    "zhsName": "星落谷",
+    "zhtName": "星落谷",
+    "enName": "Starfall Valley",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 4250,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 11,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "stationID": 7,
+    "color": 10040115,
+    "zhsName": "密洮关",
+    "zhtName": "密洮關",
+    "enName": "Mitaoguan",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 3700,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 12,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "stationID": 8,
+    "color": 10040115,
+    "zhsName": "南瓜湾",
+    "zhtName": "南瓜灣",
+    "enName": "Pumpkin Bay",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 3200,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "stationID": 9,
+    "color": 10040115,
+    "zhsName": "糖果塔",
+    "zhtName": "糖果塔",
+    "enName": "Candy Tower",
+    "jpName": "",
+    "krName": "",
+    "x": 1260,
+    "y": 2620,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 14,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 10,
+    "color": 10040115,
+    "zhsName": "临东路",
+    "zhtName": "臨東路",
+    "enName": "Lindong Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 1260,
+    "y": 2150,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 16,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 11,
+    "color": 10040115,
+    "zhsName": "致远路",
+    "zhtName": "致遠路",
+    "enName": "Zhiyuan Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 1260,
+    "y": 1600,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 15,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 12,
+    "color": 10040115,
+    "zhsName": "中央商务区",
+    "zhtName": "中央商務區",
+    "enName": "Central Business District",
+    "jpName": "",
+    "krName": "",
+    "x": 1260,
+    "y": 800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 15,
+        "stationID": 9,
+        "color": 13408767,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 13,
+    "color": 10040115,
+    "zhsName": "鹤川",
+    "zhtName": "鶴川",
+    "enName": "Hechuan",
+    "jpName": "",
+    "krName": "",
+    "x": 1260,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 11,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 14,
+    "color": 10040115,
+    "zhsName": "人民广场",
+    "zhtName": "人民廣場",
+    "enName": "People's Square",
+    "jpName": "",
+    "krName": "",
+    "x": 1500,
+    "y": -750,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 10,
+        "stationID": 18,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 15,
+    "color": 10040115,
+    "zhsName": "琼林",
+    "zhtName": "瓊林",
+    "enName": "Qionglin",
+    "jpName": "",
+    "krName": "",
+    "x": 800,
+    "y": -850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 10,
+        "stationID": 19,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 16,
+    "color": 10040115,
+    "zhsName": "会展",
+    "zhtName": "會展",
+    "enName": "Exhibition",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": -850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 2,
+        "stationID": 10,
+        "color": 6750207,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 17,
+    "color": 10040115,
+    "zhsName": "青石区政府",
+    "zhtName": "青石區政府",
+    "enName": "Qingshi District Government",
+    "jpName": "",
+    "krName": "",
+    "x": -550,
+    "y": -850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 18,
+    "color": 10040115,
+    "zhsName": "市民中心",
+    "zhtName": "市民中心",
+    "enName": "Citizen Center",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": -850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 9,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 19,
+    "color": 10040115,
+    "zhsName": "糖果暖海基地",
+    "zhtName": "糖果暖海基地",
+    "enName": "C.W.O. Basement",
+    "jpName": "",
+    "krName": "",
+    "x": -1830,
+    "y": -850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 20,
+    "color": 10040115,
+    "zhsName": "珊瑚湾",
+    "zhtName": "珊瑚灣",
+    "enName": "Coral Bay",
+    "jpName": "",
+    "krName": "",
+    "x": -2400,
+    "y": -850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 21,
+    "color": 10040115,
+    "zhsName": "五金城",
+    "zhtName": "五金城",
+    "enName": "Hardware Town",
+    "jpName": "",
+    "krName": "",
+    "x": -3080,
+    "y": -1050,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 22,
+    "color": 10040115,
+    "zhsName": "龙陵坝",
+    "zhtName": "龍陵壩",
+    "enName": "Longlingba",
+    "jpName": "",
+    "krName": "",
+    "x": -3080,
+    "y": -2050,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 9,
+    "stationID": 23,
+    "color": 10040115,
+    "zhsName": "松坪卫",
+    "zhtName": "松坪衛",
+    "enName": "Songpingwei",
+    "jpName": "",
+    "krName": "",
+    "x": -3080,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 23,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 11,
+    "color": 14085399,
+    "zhsName": "樱花岭",
+    "zhtName": "櫻花嶺",
+    "enName": "Sakura Hill",
+    "jpName": "",
+    "krName": "",
+    "x": 6950,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 10,
+    "stationID": 12,
+    "color": 14085399,
+    "zhsName": "欧培拉",
+    "zhtName": "歐培拉",
+    "enName": "Opera Cake",
+    "jpName": "",
+    "krName": "",
+    "x": 6425,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 26,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 13,
+    "color": 14085399,
+    "zhsName": "斯威特机场",
+    "zhtName": "斯威特機場",
+    "enName": "Sweet Airport",
+    "jpName": "",
+    "krName": "",
+    "x": 5480,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 5,
+        "isLeft": true
+      },
+      {
+        "platformID": 6,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 1,
+        "color": 16751103,
+        "isOpen": true
+      },
+      {
+        "lineID": 5,
+        "stationID": 4,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 14,
+    "color": 14085399,
+    "zhsName": "钻石山",
+    "zhtName": "鑽石山",
+    "enName": "Diamond Hill",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 26,
+        "color": 10556,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 15,
+    "color": 14085399,
+    "zhsName": "镇洋庙",
+    "zhtName": "鎮洋廟",
+    "enName": "Zhenyang Temple",
+    "jpName": "",
+    "krName": "",
+    "x": 3800,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 16,
+    "color": 14085399,
+    "zhsName": "魔王殿",
+    "zhtName": "魔王殿",
+    "enName": "Devil Palace",
+    "jpName": "",
+    "krName": "",
+    "x": 2800,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 13,
+        "color": 6697983,
+        "isOpen": true
+      },
+      {
+        "lineID": 11,
+        "stationID": 1,
+        "color": 3381657,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 17,
+    "color": 14085399,
+    "zhsName": "砂糖路",
+    "zhtName": "砂糖路",
+    "enName": "Sugar Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 18,
+        "color": 16772198,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 18,
+    "color": 14085399,
+    "zhsName": "人民广场",
+    "zhtName": "人民廣場",
+    "enName": "People's Square",
+    "jpName": "",
+    "krName": "",
+    "x": 1500,
+    "y": -750,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 14,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 19,
+    "color": 14085399,
+    "zhsName": "琼林",
+    "zhtName": "瓊林",
+    "enName": "Qionglin",
+    "jpName": "",
+    "krName": "",
+    "x": 800,
+    "y": -850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 15,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 20,
+    "color": 14085399,
+    "zhsName": "糖果图书馆",
+    "zhtName": "糖果圖書館",
+    "enName": "Candy Library",
+    "jpName": "",
+    "krName": "",
+    "x": 570,
+    "y": -1300,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 21,
+    "color": 14085399,
+    "zhsName": "棕榈台",
+    "zhtName": "棕櫚台",
+    "enName": "Zonglvtai",
+    "jpName": "",
+    "krName": "",
+    "x": 570,
+    "y": -1850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 2,
+        "stationID": 12,
+        "color": 6750207,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 22,
+    "color": 14085399,
+    "zhsName": "幻渊",
+    "zhtName": "幻淵",
+    "enName": "Windy Depths",
+    "jpName": "",
+    "krName": "",
+    "x": 570,
+    "y": -2375,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 18,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 23,
+    "color": 14085399,
+    "zhsName": "半夏",
+    "zhtName": "半夏",
+    "enName": "Banxia",
+    "jpName": "",
+    "krName": "",
+    "x": 570,
+    "y": -2800,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 13,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "stationID": 24,
+    "color": 14085399,
+    "zhsName": "桦桥",
+    "zhtName": "樺橋",
+    "enName": "Huaqiao",
+    "jpName": "",
+    "krName": "",
+    "x": 570,
+    "y": -3550,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": true
+  },
+  {
+    "lineID": 11,
+    "stationID": 1,
+    "color": 3381657,
+    "zhsName": "魔王殿",
+    "zhtName": "魔王殿",
+    "enName": "Devil Palace",
+    "jpName": "",
+    "krName": "",
+    "x": 2800,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 5,
+        "isLeft": true
+      },
+      {
+        "platformID": 6,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 13,
+        "color": 6697983,
+        "isOpen": true
+      },
+      {
+        "lineID": 10,
+        "stationID": 16,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 11,
+    "stationID": 2,
+    "color": 3381657,
+    "zhsName": "静波",
+    "zhtName": "靜波",
+    "enName": "Jingbo",
+    "jpName": "",
+    "krName": "",
+    "x": 2600,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 9,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 11,
+    "stationID": 3,
+    "color": 3381657,
+    "zhsName": "森林公园",
+    "zhtName": "森林公園",
+    "enName": "Forest Park",
+    "jpName": "",
+    "krName": "",
+    "x": 2600,
+    "y": 700,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 11,
+    "stationID": 4,
+    "color": 3381657,
+    "zhsName": "独立广场",
+    "zhtName": "獨立廣場",
+    "enName": "Independence Plaza",
+    "jpName": "",
+    "krName": "",
+    "x": 2600,
+    "y": 1480,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 11,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 11,
+    "stationID": 5,
+    "color": 3381657,
+    "zhsName": "紫金塘",
+    "zhtName": "紫金塘",
+    "enName": "Zijintang",
+    "jpName": "",
+    "krName": "",
+    "x": 2450,
+    "y": 2100,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 22,
+        "color": 16772198,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 11,
+    "stationID": 6,
+    "color": 3381657,
+    "zhsName": "沼潮",
+    "zhtName": "沼潮",
+    "enName": "Zhaochao",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 2378,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 13,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 11,
+    "stationID": 7,
+    "color": 3381657,
+    "zhsName": "冰洋研究所",
+    "zhtName": "冰洋研究所",
+    "enName": "Institute of Ice Ocean",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 12,
+        "stationID": 18,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 11,
+    "stationID": 8,
+    "color": 3381657,
+    "zhsName": "澄水滩",
+    "zhtName": "澄水灘",
+    "enName": "Chengshui Beach",
+    "jpName": "",
+    "krName": "",
+    "x": 1800,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 7,
+        "stationID": 13,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 11,
+    "stationID": 9,
+    "color": 3381657,
+    "zhsName": "湘桥门",
+    "zhtName": "湘橋門",
+    "enName": "Xiangqiaomen",
+    "jpName": "",
+    "krName": "",
+    "x": 1800,
+    "y": 4050,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 11,
+    "stationID": 10,
+    "color": 3381657,
+    "zhsName": "石头公园",
+    "zhtName": "石頭公園",
+    "enName": "Stone Park",
+    "jpName": "",
+    "krName": "",
+    "x": 1800,
+    "y": 4700,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 5,
+        "color": 10040115,
+        "isOpen": false
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "stationID": 1,
+    "color": 10556,
+    "zhsName": "滨海度假村",
+    "zhtName": "濱海度假村",
+    "enName": "Marina Resort",
+    "jpName": "",
+    "krName": "",
+    "x": -5380,
+    "y": 3460,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 2,
+    "color": 10556,
+    "zhsName": "后坞",
+    "zhtName": "後塢",
+    "enName": "Houwu",
+    "jpName": "",
+    "krName": "",
+    "x": -4800,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 3,
+    "color": 10556,
+    "zhsName": "前坞",
+    "zhtName": "前塢",
+    "enName": "Qianwu",
+    "jpName": "",
+    "krName": "",
+    "x": -4250,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 4,
+    "color": 10556,
+    "zhsName": "翠砂",
+    "zhtName": "翠砂",
+    "enName": "Cuisha",
+    "jpName": "",
+    "krName": "",
+    "x": -3650,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 25,
+        "color": 16751103,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 5,
+    "color": 10556,
+    "zhsName": "太桦门",
+    "zhtName": "太樺門",
+    "enName": "Taihuamen",
+    "jpName": "",
+    "krName": "",
+    "x": -3000,
+    "y": 3550,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 6,
+    "color": 10556,
+    "zhsName": "三江口",
+    "zhtName": "三江口",
+    "enName": "Sanjiangkou",
+    "jpName": "",
+    "krName": "",
+    "x": -2700,
+    "y": 3100,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 7,
+    "color": 10556,
+    "zhsName": "潮涌高铁站",
+    "zhtName": "潮湧高鐵站",
+    "enName": "Chaoyong HRS Station",
+    "jpName": "",
+    "krName": "",
+    "x": -2700,
+    "y": 2500,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 19,
+        "color": 16737894,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 8,
+    "color": 10556,
+    "zhsName": "云溪",
+    "zhtName": "雲溪",
+    "enName": "Yunxi",
+    "jpName": "",
+    "krName": "",
+    "x": -2700,
+    "y": 1750,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 9,
+    "color": 10556,
+    "zhsName": "糖果生态公园",
+    "zhtName": "糖果生態公園",
+    "enName": "Candy Eco-park",
+    "jpName": "",
+    "krName": "",
+    "x": -2500,
+    "y": 1000,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 10,
+    "color": 10556,
+    "zhsName": "潮涌一中",
+    "zhtName": "潮湧一中",
+    "enName": "Chaoyong No.1 Jr. Hi-School",
+    "jpName": "",
+    "krName": "",
+    "x": -1650,
+    "y": 1000,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 11,
+    "color": 10556,
+    "zhsName": "奥体中心",
+    "zhtName": "奧體中心",
+    "enName": "Olympic Sports Center",
+    "jpName": "",
+    "krName": "",
+    "x": -1080,
+    "y": 1250,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 6,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 12,
+    "color": 10556,
+    "zhsName": "糖果规划局",
+    "zhtName": "糖果規劃局",
+    "enName": "Candy Planning Bureau",
+    "jpName": "",
+    "krName": "",
+    "x": -550,
+    "y": 1500,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 13,
+    "color": 10556,
+    "zhsName": "神木",
+    "zhtName": "神木",
+    "enName": "Shenmu",
+    "jpName": "",
+    "krName": "",
+    "x": 150,
+    "y": 1500,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 2,
+        "stationID": 7,
+        "color": 6750207,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 14,
+    "color": 10556,
+    "zhsName": "古戈尔塔",
+    "zhtName": "古戈爾塔",
+    "enName": "Googol Tower",
+    "jpName": "",
+    "krName": "",
+    "x": 750,
+    "y": 1500,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 15,
+    "color": 10556,
+    "zhsName": "致远路",
+    "zhtName": "致遠路",
+    "enName": "Zhiyuan Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 1600,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 11,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 16,
+    "color": 10556,
+    "zhsName": "临东路",
+    "zhtName": "臨東路",
+    "enName": "Lindong Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 1300,
+    "y": 2150,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 10,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 17,
+    "color": 10556,
+    "zhsName": "潮涌体育馆",
+    "zhtName": "潮湧體育館",
+    "enName": "Chaoyong Stadium",
+    "jpName": "",
+    "krName": "",
+    "x": 1800,
+    "y": 2300,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 18,
+    "color": 10556,
+    "zhsName": "冰洋研究所",
+    "zhtName": "冰洋研究所",
+    "enName": "Institute of Ice Ocean",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 11,
+        "stationID": 7,
+        "color": 3381657,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 19,
+    "color": 10556,
+    "zhsName": "石门",
+    "zhtName": "石門",
+    "enName": "Stone Gate",
+    "jpName": "",
+    "krName": "",
+    "x": 2700,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 5,
+        "isLeft": true
+      },
+      {
+        "platformID": 6,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 23,
+        "color": 16772198,
+        "isOpen": true
+      },
+      {
+        "lineID": 8,
+        "stationID": 1,
+        "color": 26367,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 20,
+    "color": 10556,
+    "zhsName": "地形实验室",
+    "zhtName": "地形實驗室",
+    "enName": "Topography lab",
+    "jpName": "",
+    "krName": "",
+    "x": 3500,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 8,
+        "stationID": 2,
+        "color": 26367,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 21,
+    "color": 10556,
+    "zhsName": "东森",
+    "zhtName": "東森",
+    "enName": "Dongsen",
+    "jpName": "",
+    "krName": "",
+    "x": 4150,
+    "y": 2850,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 8,
+        "stationID": 3,
+        "color": 26367,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 22,
+    "color": 10556,
+    "zhsName": "糖果火车站",
+    "zhtName": "糖果火車站",
+    "enName": "Candy Railway Station",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": 2200,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 7,
+        "color": 6697983,
+        "isOpen": true
+      },
+      {
+        "lineID": 15,
+        "stationID": 1,
+        "color": 13408767,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": true
+  },
+  {
+    "lineID": 12,
+    "stationID": 23,
+    "color": 10556,
+    "zhsName": "糖果大教堂",
+    "zhtName": "糖果大教堂",
+    "enName": "Candy Cathedral",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": 1480,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 5,
+        "stationID": 8,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "stationID": 24,
+    "color": 10556,
+    "zhsName": "素启",
+    "zhtName": "素啟",
+    "enName": "Suqi",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": 750,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "stationID": 25,
+    "color": 10556,
+    "zhsName": "千浦",
+    "zhtName": "千浦",
+    "enName": "Qianpu",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": 260,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 6,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "stationID": 26,
+    "color": 10556,
+    "zhsName": "钻石山",
+    "zhtName": "鑽石山",
+    "enName": "Diamond Hill",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": -650,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 10,
+        "stationID": 14,
+        "color": 14085399,
+        "isOpen": true
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "stationID": 27,
+    "color": 10556,
+    "zhsName": "下界之剑",
+    "zhtName": "下界之劍",
+    "enName": "The Sword of Nether",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": -1300,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "stationID": 28,
+    "color": 10556,
+    "zhsName": "竹园",
+    "zhtName": "竹園",
+    "enName": "Bamboo Park",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": -1800,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": true
+      },
+      {
+        "platformID": 2,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "stationID": 29,
+    "color": 10556,
+    "zhsName": "倚山",
+    "zhtName": "倚山",
+    "enName": "Yishan",
+    "jpName": "",
+    "krName": "",
+    "x": 4950,
+    "y": -2120,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 20,
+        "color": 10092339,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "stationID": 30,
+    "color": 10556,
+    "zhsName": "蘩藜",
+    "zhtName": "蘩藜",
+    "enName": "Fanli",
+    "jpName": "",
+    "krName": "",
+    "x": 5600,
+    "y": -2120,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 21,
+        "color": 10092339,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "stationID": 31,
+    "color": 10556,
+    "zhsName": "溶洞公园",
+    "zhtName": "溶洞公園",
+    "enName": "Karst Cave Park",
+    "jpName": "",
+    "krName": "",
+    "x": 6330,
+    "y": -2100,
+    "platformList": [
+      {
+        "platformID": 5,
+        "isLeft": true
+      },
+      {
+        "platformID": 6,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 22,
+        "color": 10092339,
+        "isOpen": false
+      },
+      {
+        "lineID": 7,
+        "stationID": 28,
+        "color": 10066176,
+        "isOpen": false
+      }
+    ],
+    "length": 8,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 1,
+    "color": 13408767,
+    "zhsName": "糖果火车站",
+    "zhtName": "糖果火車站",
+    "enName": "Candy Railway Station",
+    "jpName": "",
+    "krName": "",
+    "x": 4420,
+    "y": 2200,
+    "platformList": [
+      {
+        "platformID": 5,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 7,
+        "color": 6697983,
+        "isOpen": true
+      },
+      {
+        "lineID": 12,
+        "stationID": 22,
+        "color": 10556,
+        "isOpen": true
+      }
+    ],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 2,
+    "color": 13408767,
+    "zhsName": "塔林",
+    "zhtName": "塔林",
+    "enName": "Tarrin",
+    "jpName": "",
+    "krName": "",
+    "x": 3850,
+    "y": 2200,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 8,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 6,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 3,
+    "color": 13408767,
+    "zhsName": "墨泽",
+    "zhtName": "墨澤",
+    "enName": "Moze",
+    "jpName": "",
+    "krName": "",
+    "x": 3300,
+    "y": 2100,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": true
+      },
+      {
+        "platformID": 4,
+        "isLeft": true
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 4,
+        "stationID": 9,
+        "color": 6697983,
+        "isOpen": true
+      }
+    ],
+    "length": 4,
+    "isOpen": true
+  },
+  {
+    "lineID": 15,
+    "stationID": 4,
+    "color": 13408767,
+    "zhsName": "七龙湖",
+    "zhtName": "七龍湖",
+    "enName": "Qilonghu",
+    "jpName": "",
+    "krName": "",
+    "x": 2900,
+    "y": 1900,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 4,
+    "isOpen": true
+  },
+  {
+    "lineID": 15,
+    "stationID": 5,
+    "color": 13408767,
+    "zhsName": "新国际饭店",
+    "zhtName": "新國際飯店",
+    "enName": "New International Hotel",
+    "jpName": "",
+    "krName": "",
+    "x": 2550,
+    "y": 1750,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 4,
+    "isOpen": true
+  },
+  {
+    "lineID": 15,
+    "stationID": 6,
+    "color": 13408767,
+    "zhsName": "糖果城堡",
+    "zhtName": "糖果城堡",
+    "enName": "The Candy Castle",
+    "jpName": "",
+    "krName": "",
+    "x": 2130,
+    "y": 1750,
+    "platformList": [
+      {
+        "platformID": 5,
+        "isLeft": false
+      },
+      {
+        "platformID": 6,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 3,
+        "stationID": 21,
+        "color": 16772198,
+        "isOpen": true
+      },
+      {
+        "lineID": 5,
+        "stationID": 12,
+        "color": 16737894,
+        "isOpen": true
+      }
+    ],
+    "length": 4,
+    "isOpen": true
+  },
+  {
+    "lineID": 15,
+    "stationID": 7,
+    "color": 13408767,
+    "zhsName": "古戈尔路",
+    "zhtName": "古戈爾路",
+    "enName": "Googol Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 1850,
+    "y": 1500,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 8,
+    "color": 13408767,
+    "zhsName": "星尘路",
+    "zhtName": "星塵路",
+    "enName": "Stardust Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 1850,
+    "y": 1100,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 9,
+    "color": 13408767,
+    "zhsName": "中央商务区",
+    "zhtName": "中央商務區",
+    "enName": "Central Business District",
+    "jpName": "",
+    "krName": "",
+    "x": 1260,
+    "y": 800,
+    "platformList": [
+      {
+        "platformID": 5,
+        "isLeft": false
+      },
+      {
+        "platformID": 6,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 9,
+        "stationID": 12,
+        "color": 10040115,
+        "isOpen": true
+      }
+    ],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 10,
+    "color": 13408767,
+    "zhsName": "庆丰路",
+    "zhtName": "慶豐路",
+    "enName": "Qingfeng Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 1000,
+    "y": 400,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 11,
+    "color": 13408767,
+    "zhsName": "长平路",
+    "zhtName": "長平路",
+    "enName": "Changping Rd.",
+    "jpName": "",
+    "krName": "",
+    "x": 500,
+    "y": 400,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 12,
+    "color": 13408767,
+    "zhsName": "青石大酒店",
+    "zhtName": "青石大酒店",
+    "enName": "Qingshi Hotel",
+    "jpName": "",
+    "krName": "",
+    "x": -20,
+    "y": 400,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 13,
+    "color": 13408767,
+    "zhsName": "赤岩",
+    "zhtName": "赤岩",
+    "enName": "Chiyan",
+    "jpName": "",
+    "krName": "",
+    "x": -550,
+    "y": 150,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 1,
+        "stationID": 14,
+        "color": 16751103,
+        "isOpen": true
+      }
+    ],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 14,
+    "color": 13408767,
+    "zhsName": "鼓楼",
+    "zhtName": "鼓樓",
+    "enName": "Gulou",
+    "jpName": "",
+    "krName": "",
+    "x": -750,
+    "y": -400,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 15,
+    "color": 13408767,
+    "zhsName": "绿水湾",
+    "zhtName": "綠水灣",
+    "enName": "Lvshuiwan",
+    "jpName": "",
+    "krName": "",
+    "x": -750,
+    "y": -1000,
+    "platformList": [
+      {
+        "platformID": 1,
+        "isLeft": false
+      },
+      {
+        "platformID": 2,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [],
+    "length": 4,
+    "isOpen": false
+  },
+  {
+    "lineID": 15,
+    "stationID": 16,
+    "color": 13408767,
+    "zhsName": "桂湖",
+    "zhtName": "桂湖",
+    "enName": "The Osmanthus Lake",
+    "jpName": "",
+    "krName": "",
+    "x": -750,
+    "y": -1500,
+    "platformList": [
+      {
+        "platformID": 3,
+        "isLeft": false
+      },
+      {
+        "platformID": 4,
+        "isLeft": false
+      }
+    ],
+    "interchangeList": [
+      {
+        "lineID": 6,
+        "stationID": 10,
+        "color": 10092339,
+        "isOpen": true
+      }
+    ],
+    "length": 4,
+    "isOpen": false
+  }
+]

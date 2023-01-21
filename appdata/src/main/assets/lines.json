@@ -1,0 +1,132 @@
+[
+  {
+    "lineID": 1,
+    "zhsName": "启航线",
+    "zhtName": "啟航線",
+    "enName": "Qihang Line",
+    "jpName": "",
+    "krName": "",
+    "color": 16751103,
+    "isOpen": true
+  },
+  {
+    "lineID": 2,
+    "zhsName": "复兴线",
+    "zhtName": "復興線",
+    "enName": "Fuxing Line",
+    "jpName": "",
+    "krName": "",
+    "color": 6750207,
+    "isOpen": true
+  },
+  {
+    "lineID": 3,
+    "zhsName": "香草线",
+    "zhtName": "香草線",
+    "enName": "Vanilla Line",
+    "jpName": "",
+    "krName": "",
+    "color": 16772198,
+    "isOpen": true
+  },
+  {
+    "lineID": 4,
+    "zhsName": "龙百合线",
+    "zhtName": "龍百合線",
+    "enName": "Dragon Lily Line",
+    "jpName": "",
+    "krName": "",
+    "color": 6697983,
+    "isOpen": true
+  },
+  {
+    "lineID": 5,
+    "zhsName": "樱花线",
+    "zhtName": "櫻花線",
+    "enName": "Sakura Line",
+    "jpName": "",
+    "krName": "",
+    "color": 16737894,
+    "isOpen": true
+  },
+  {
+    "lineID": 6,
+    "zhsName": "香樟线",
+    "zhtName": "香樟線",
+    "enName": "Camphor Line",
+    "jpName": "",
+    "krName": "",
+    "color": 10092339,
+    "isOpen": true
+  },
+  {
+    "lineID": 7,
+    "zhsName": "菘蓝线",
+    "zhtName": "菘藍線",
+    "enName": "Isatis Line",
+    "jpName": "",
+    "krName": "",
+    "color": 10066176,
+    "isOpen": false
+  },
+  {
+    "lineID": 8,
+    "zhsName": "须芒线",
+    "zhtName": "須芒線",
+    "enName": "Bluestem Line",
+    "jpName": "",
+    "krName": "",
+    "color": 26367,
+    "isOpen": false
+  },
+  {
+    "lineID": 9,
+    "zhsName": "天竺葵线",
+    "zhtName": "天竺葵線",
+    "enName": "Geranium Line",
+    "jpName": "",
+    "krName": "",
+    "color": 10040115,
+    "isOpen": true
+  },
+  {
+    "lineID": 10,
+    "zhsName": "文心兰线",
+    "zhtName": "文心蘭線",
+    "enName": "Oncidium Line",
+    "jpName": "",
+    "krName": "",
+    "color": 14085399,
+    "isOpen": true
+  },
+  {
+    "lineID": 11,
+    "zhsName": "风信子线",
+    "zhtName": "風信子線",
+    "enName": "Hyacinth Line",
+    "jpName": "",
+    "krName": "",
+    "color": 3381657,
+    "isOpen": false
+  },
+  {
+    "lineID": 12,
+    "zhsName": "黑玫瑰线",
+    "zhtName": "黑玫瑰線",
+    "enName": "Black Rose Line",
+    "jpName": "",
+    "krName": "",
+    "color": 10556,
+    "isOpen": true
+  },
+  {
+    "lineID": 15,
+    "zhsName": "龙葵线",
+    "zhtName": "龍葵線",
+    "enName": "Solanum Nigrum Line",
+    "jpName": "",
+    "krName": "",
+    "color": 13408767,
+    "isOpen": true
+  }
+]
