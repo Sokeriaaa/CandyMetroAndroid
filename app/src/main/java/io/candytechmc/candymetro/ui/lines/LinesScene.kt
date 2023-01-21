@@ -2,7 +2,6 @@ package io.candytechmc.candymetro.ui.lines
 
 import android.content.Intent
 import android.net.Uri
-import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -20,14 +19,13 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavHostController
 import io.candytechmc.candymetro.R
-import io.candytechmc.candymetro.ui.common.SingleFilterChipGroup
+import io.candytechmc.candymetro.ui.common.metro.MetroLineSelector
 
 /**
  * Line list scene
  * @author Sokeriaaa
  * @date 2023/1/17
  */
-@OptIn(ExperimentalFoundationApi::class)
 @Composable
 fun LinesScene(
     rootNavHostController: NavHostController,
@@ -79,17 +77,10 @@ private fun LineListHeader(
                 color = MaterialTheme.colorScheme.onSurface,
                 style = MaterialTheme.typography.titleLarge
             )
-            SingleFilterChipGroup(
+            MetroLineSelector(
                 modifier = Modifier.fillMaxWidth(),
                 initIndex = 0,
-                chipList = viewModel.lineList.map {
-                    stringResource(id = R.string.line_label, it.lineID) +
-                            if (it.isOpen) {
-                                ""
-                            } else {
-                                " (${stringResource(id = R.string.opening_soon)})"
-                            }
-                }.toTypedArray(),
+                lineList = viewModel.lineList,
                 onChipClicked = {
                     viewModel.queryStationsForLine(viewModel.lineList[it].lineID)
                 }
