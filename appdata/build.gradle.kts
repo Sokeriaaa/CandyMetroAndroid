@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "io.candytechmc.candymetro.appdata"
+    namespace = "top.candytechmc.candymetro.appdata"
     compileSdk = 33
 
     defaultConfig {

@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "io.candytechmc.candymetro"
+    namespace = "top.candytechmc.candymetro"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "io.candytechmc.candymetro"
+        applicationId = "top.candytechmc.candymetro"
         minSdk = 21
         targetSdk = 33
         versionCode = 2
